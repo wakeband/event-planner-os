@@ -1,6 +1,10 @@
 ---
 name: event-planner-os
+version: 1.0.0
 description: Plan and manage any event from start to finish, including timelines, task checklists, vendors, volunteers, and budgets. Use this skill whenever someone mentions planning an event, party, gathering, conference, concert, wedding, fundraiser, retreat, shower, dinner party, or any organized occasion. Trigger on casual phrases too -- "I need to plan a birthday party," "the conference is in 8 weeks," "who's our caterer," "what still needs to get done for Saturday," or "how much have we spent on the wedding" should all activate this skill.
+metadata:
+  openclaw:
+    emoji: 🎉
 ---
 
 # Event Planner
